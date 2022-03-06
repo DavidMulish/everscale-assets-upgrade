@@ -77,6 +77,13 @@
       "rootV4": "0:f4a912b0c3be422e02c0a8295590671cae5b38c75d397da8d1da33882888bbcb",
       "rootV5": "0:0cfa60f9454b1b619938c4da6a138b1cc62da937b3f6c0506405daf2a88e0115",
       "proxy": "0:f93b0789bb397c2b090dc9dec0f595b2bf34a157a782452dcd5074c51636312e"
-    }
+    },
+    {
+    "symbol": "BRO",
+    "logoURI": "<icon url>",
+    "rootV4": "0:f9eccf534a06cd1b01cce791ed78d30b8380fb0ec7f8f4a3c2a4c800486b750f",
+    "rootV5": "0:40c27f474afc14d37c7fd42fe21372336d3f67932b901e06e90295c616ced829",
+    "proxy": "0:a7541c8efdbc0671ad87c31152c725cbcdcd03a1bd1687d88b7126d5e536b99d"
+}
   ]
 }
